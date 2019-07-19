@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FpAuthDialogLibrary</string>
+    <string name="fp_dialog_status">Touch the Sensor</string>
+    <string name="fp_dialog_message">Use your fingerprint to access the app</string>
+    <string name="fp_dialog_title">Login</string>
+    <string name="fp_dialog_cancel">Cancel</string>
+    <string name="touch_the_sensor">Touch the Sensor</string>
+    <string name="finger_print_not_recognized">Fingerprint Not Recognized</string>
+    <string name="authentication_successful">Authentication Successful</string>
+    <string name="authentication_cancelled">Authentication Cancelled</string>
+</resources>
